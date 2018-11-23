@@ -1,0 +1,1 @@
+Arquivo inútil, só para criar a pasta "saves" no GitHub, pois o programa consegue criar arquivos, mas não pastas.
