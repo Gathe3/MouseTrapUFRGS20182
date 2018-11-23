@@ -1,5 +1,5 @@
 # TrabFinalUFRGS20182
-Jogo Mouse Trap que desenvolvemos para o trabalho final da disciplina de Algoritmos e Programação (INF01202) de 2018/2 utilizando a biblioteca Allegro para C no CodeBlocks.
+Jogo Mouse Trap que desenvolvemos para o trabalho final da disciplina de Algoritmos e Programação (INF01202) de 2018/2 utilizando a biblioteca Allegro (versão 5.0.10 junto ao CodeBlocks 17.12 com MinGW) para C no CodeBlocks.
 Turma B (professores: Edison e Joel).
 
 Obs.: tutoriais de Allegro (de onde começamos a aprender): www.aprendendoallegro.tk
@@ -39,3 +39,4 @@ A música de fundo que toca ao zerar o jogo parece estar distorcida;
 
 Observação:
 Muitos assets foram retirados da internet ou (principalmente os áudios) de jogos conhecidos (Super Mario Bros, Mario Kart Wii, Sonic 3, Yoshi's Island, Stardew Valley, Minecraft, Lego Star Wars, Donkey Kong, Club Penguin, etc.). Tudo isso é propriedade dos seus criadores e não tem finalidade comercial nesse projeto. A única finalidade em expor o trabalho aqui é proporcionar material para conhecimento a quem interessar.
+Para os áudios, usamos arquivos .ogg, pois ocupam (aparentemente) um espaço muito menor que .wav e ainda são reproduzidos pela Allegro. Para convertê-los, foi usado o AudaCity.
