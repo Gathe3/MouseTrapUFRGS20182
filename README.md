@@ -1,5 +1,5 @@
-# MouseTrapUFRGS20182
-Jogo que desenvolvemos para o trabalho final da disciplina de Algoritmos e Programação (INF01202) de 2018/2 utilizando a biblioteca Allegro para C no CodeBlocks.
+# TrabFinalUFRGS20182
+Jogo Mouse Trap que desenvolvemos para o trabalho final da disciplina de Algoritmos e Programação (INF01202) de 2018/2 utilizando a biblioteca Allegro para C no CodeBlocks.
 Turma B (professores: Edison e Joel).
 
 Obs.: tutoriais de Allegro (de onde começamos a aprender): www.aprendendoallegro.tk
